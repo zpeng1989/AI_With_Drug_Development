@@ -26,7 +26,7 @@ PyTorch深度学习教程。
 * [数据分析常用清单](https://github.com/Bin-Chen-Lab/BigData_AI_DrugDiscovery/blob/master/data_science_cheatsheet.pdf)
 快速查看数据分析基础知识列表
 
-* 单细胞RNA-Seq分析[osca](https://osca.bioconductor.org/introduction tion.html)， [seurat](https://satijalab.org/seurat/vignettes.html)
+* 单细胞RNA-Seq分析[osca](https://osca.bioconductor.org/introductiontion.html)， [seurat](https://satijalab.org/seurat/vignettes.html)
 优秀的scRNA-Seq分析流程。
 
 # 基础论文
@@ -123,7 +123,7 @@ SEA的发展，一种预测药物-靶标相互作用的方法，以及另一个�
 从数据分析开始，最后通过生物实验验证
 
 
-* [跨物种调控网络分析确定基因FOXM1和CENPF之间的协同作用，驱动前列腺癌恶性肿瘤](http://www.cell.com/cell/fulltext/s1535 -6108(14)00125-1)
+* [跨物种调控网络分析确定基因FOXM1和CENPF之间的协同作用，驱动前列腺癌恶性肿瘤](http://www.cell.com/cell/fulltext/s1535-6108(14)00125-1)
 从数据分析开始，最后通过生物实验验证
 
 
@@ -134,7 +134,7 @@ SEA的发展，一种预测药物-靶标相互作用的方法，以及另一个�
 * [发现药物作用模式和药物从转录反应中重新定位](http://www.pnas.org/content/107/33/14621.long)
 从数据分析开始，最后通过生物实验验证
 
-* [Imagenet深度卷积神经网络分类](http://papers.nips.cc/paper/4824- Imagenet -classification-with-deep-convolutional neural-networks.pdf)
+* [Imagenet深度卷积神经网络分类](http://papers.nips.cc/paper/4824-Imagenet-classification-with-deep-convolutional neural-networks.pdf)
 卷积神经网络(CNN)的发展，流行的深度学习方法。
 
 
@@ -152,7 +152,7 @@ SEA的发展，一种预测药物-靶标相互作用的方法，以及另一个�
 一篇关于泛癌症基因组分析的论文。
 
 
-* [男性与女性患者癌症分子差异的综合表征](http://www.cell.com/cell/fulltext/s1535 -6108(16)30111-8)
+* [男性与女性患者癌症分子差异的综合表征](http://www.cell.com/cell/fulltext/s1535-6108(16)30111-8)
 一篇关于泛癌症基因组分析的论文。
 
 * [类风湿关节炎的遗传学有助于生物学和药物的发现。](https://www.nature.com/nature/journal/v506/n7488/full/nature12873.html)
@@ -225,7 +225,7 @@ LINCS，我们主要用于药物发现的数据集。
 
 ## 病人数据和疾病数据
 
-* (ClinicalTrials.gov) (https://clinicaltrials.gov)
+* [ClinicalTrials.gov](https://clinicaltrials.gov)
 查找用于癌临床试验的药物。
 
 * [今日癌症(Globocan):数据可视化工具，显示当前全国癌症发病率、死亡率和患病率的估计](http://gco.iarc.fr/today/home)
@@ -233,19 +233,19 @@ LINCS，我们主要用于药物发现的数据集。
 
 
 
-* (英国生物库)(http://www.ukbiobank.ac.uk/)。英国生物库引擎(https://biobankengine.stanford.edu/)
+* [英国生物库](http://www.ukbiobank.ac.uk/)和[英国生物库引擎](https://biobankengine.stanford.edu/)
 通过斯坦福生物数据库引擎搜索癌的公共临床/分子数据和肝癌的遗传变异。
 
 
-* (COSMIC)(http://cancer.sanger.ac.uk/cosmic)
+* [COSMIC](http://cancer.sanger.ac.uk/cosmic)
 寻找癌的体细胞突变。
 
 ## 药物靶点开发
 
-* (cBioPortal) (http://www.cbioportal.org/)。
+* [cBioPortal](http://www.cbioportal.org/)。
 从包括TCGA在内的公共数据集中搜索癌的分子变化。
 
-* (GTEx) (http://www.gtexportal.org)。
+* [GTEx](http://www.gtexportal.org)。
 在正常组织中寻找基因表达。
 
 * [人类蛋白质图谱](https://www.proteinatlas.org/)
@@ -256,86 +256,86 @@ LINCS，我们主要用于药物发现的数据集。
 寻找癌细胞系的基因表达。
 
 
-* (Achilles 项目)(https://portals.broadinstitute.org/achilles)
+* [Achilles 项目](https://portals.broadinstitute.org/achilles)
 寻找癌细胞的必要基因。
 
-* (DepMap) (https://depmap.org/portal/)
+* [DepMap](https://depmap.org/portal/)
 建立一个完整的临床前参考图，将肿瘤特征与肿瘤相关性联系起来，以加速精确治疗的发展。
 
 
-* (GEO) (https://www.ncbi.nlm.nih.gov/geo/)
+* [GEO](https://www.ncbi.nlm.nih.gov/geo/)
 搜索癌的功能基因组数据，需要额外的计算分析来创建癌特征。
 
-* (Enrichr) (http://amp.pharm.mssm.edu/Enrichr/)
+* [Enrichr](http://amp.pharm.mssm.edu/Enrichr/)
 搜索丰富的TS/Pathway/生物过程/细胞类型的基因列表。
 
-* (STRING DB) (https://string-db.org/)
+* [STRING DB](https://string-db.org/)
 可视化蛋白质-蛋白质之间的关系。
 
 
 ## 药物发现
 
-* (PubChem) (https://pubchem.ncbi.nlm.nih.gov/)
+* [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
 关于化合物/药物的一切都需要知道。
 
-* (DrugBank) (https://www.drugbank.ca/)
+* [DrugBank](https://www.drugbank.ca/)
 搜索drug-target-indication。
 
-* (SEA)(http://sea.bkslab.org/)
+* [SEA](http://sea.bkslab.org/)
 预测给定化合物的目标。
 
 
-* (LINCS)(https://clue.io/)
+* [LINCS](https://clue.io/)
 预测具有肝癌特征的药物。
 
-* (ChemMine) (http://chemmine.ucr.edu/)
+* [ChemMine](http://chemmine.ucr.edu/)
 对化学结构富集分析非常有用。
 
 
 # NGS 分析
 
-* （RNASEQ博客)(http://www.rna-seqblog.com/)
+* [RNASEQ博客](http://www.rna-seqblog.com/)
 大量的RNA-SEQ分析方法/应用。
 
-* [RPKM, FPKM和TPM](http://www.rna-seqblog.com/rpkm-fpkm-and- TPM -clear -explained/)
+* [RPKM, FPKM和TPM](http://www.rna-seqblog.com/rpkm-fpkm-and-TPM-clear-explained/)
 
 * [RNA-seq工作流:基因水平的探索性分析和差异表达](http://www.bioconductor.org/help/workflows/rnaseqGene/)
 
 # Python 
 
-* (Python)(https://anaconda.org/)
+* [Python](https://anaconda.org/)
 建议使用anaconda来管理python包
 
 * [scikit:一个流行的python机器学习包](http://scikit-learn.org/stable/)
 
-* (rdkit) (http://www.rdkit.org/docs/index.html)
+* [rdkit](http://www.rdkit.org/docs/index.html)
 处理化学结构的免费python库。
 
-* (PyTorch) (http://pytorch.org/)
+* [PyTorch](http://pytorch.org/)
 深度学习框架。
 
 # R/Bioconductor
 
-* (ggplot)(http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
+* [ggplot](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
 一个必须读取可视化数据使用R。
 
 * [ChemmineR: 化学信息学Toolkit调用R包](http://www.bioconductor.org/packages/devel/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html)
 
 
 
-* (biomaRt) (http://bioconductor.org/packages/release/bioc/html/biomaRt.html)
+* [biomaRt](http://bioconductor.org/packages/release/bioc/html/biomaRt.html)
 一个用于分子数据映射id关系的强大包。
 
-* (GEOquery) (http://bioconductor.org/packages/release/bioc/html/GEOquery.html)
+* [GEOquery](http://bioconductor.org/packages/release/bioc/html/GEOquery.html)
 从GEO下载数据。
 
-* (cgdsr) (https://cran.r-project.org/web/packages/cgdsr/index.html)
+* [cgdsr](https://cran.r-project.org/web/packages/cgdsr/index.html)
 获取cBioportal数据的API。
 
-* (pheatmap) (https://cran.r-project.org/web/packages/pheatmap/index.html)
+* [pheatmap](https://cran.r-project.org/web/packages/pheatmap/index.html)
 可视化的热图。
 
-* [在同一页面上混合多个图形的简便方法](http://www.sthda.com/english/articles/24-ggpubr-public-- plots/81-ggplot2- Easy - Way -mix-multiple- graphs-onsame page/）
+* [在同一页面上混合多个图形的简便方法](http://www.sthda.com/english/articles/24-ggpubr-public--plots/81-ggplot2-Easy-Way-mix-multiple- graphs-onsamepage/)
 
 
 
